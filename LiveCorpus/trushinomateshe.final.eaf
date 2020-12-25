@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-12-01T17:30:50+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-12-25T22:31:39+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Катя/Downloads/trushinomateshe.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../Users/Катя/Downloads/trushinomateshe.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:857ed8e5-6f06-4072-97be-70c643e2be90</PROPERTY>
@@ -18990,52 +18990,52 @@
     <TIER ANNOTATOR="EAShepel" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="gesture@vz1982m" PARTICIPANT="@vz1982m" TIER_ID="gestMeaning@vz1982m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6803" ANNOTATION_REF="a6802">
-                <ANNOTATION_VALUE>акцент</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: акцент на слове математика</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6527" ANNOTATION_REF="a6516">
-                <ANNOTATION_VALUE>понимание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: понимание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6528" ANNOTATION_REF="a6517">
-                <ANNOTATION_VALUE>поддержка коммуникации</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка коммуникации</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6529" ANNOTATION_REF="a6518">
-                <ANNOTATION_VALUE>понимание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: понимание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6530" ANNOTATION_REF="a6519">
-                <ANNOTATION_VALUE>поддержка коммуникации</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка коммуникации</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6531" ANNOTATION_REF="a6520">
-                <ANNOTATION_VALUE>поддержка коммуникации</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка коммуникации</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6532" ANNOTATION_REF="a6521">
-                <ANNOTATION_VALUE>поддержка коммуникации</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка коммуникации</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6533" ANNOTATION_REF="a6522">
-                <ANNOTATION_VALUE>понимание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: понимание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6534" ANNOTATION_REF="a6523">
-                <ANNOTATION_VALUE>поддержка коммуникации</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка коммуникации</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6535" ANNOTATION_REF="a6524">
-                <ANNOTATION_VALUE>понимание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: понимание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19045,7 +19045,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6537" ANNOTATION_REF="a6526">
-                <ANNOTATION_VALUE>поддержка коммуникации</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка коммуникации</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19055,52 +19055,52 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6565" ANNOTATION_REF="a6539">
-                <ANNOTATION_VALUE>многообразие</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: многообразие</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6566" ANNOTATION_REF="a6540">
-                <ANNOTATION_VALUE>направление, перечисление</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>указательный жест: направление, перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6567" ANNOTATION_REF="a6541">
-                <ANNOTATION_VALUE>направление, перечисление</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>указательный жест: направление, перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6568" ANNOTATION_REF="a6542">
-                <ANNOTATION_VALUE>направление, перечисление</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>указательный жест: направление, перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6569" ANNOTATION_REF="a6543">
-                <ANNOTATION_VALUE>итог</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: итог</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6570" ANNOTATION_REF="a6544">
-                <ANNOTATION_VALUE>указание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>указательный жест: указание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6571" ANNOTATION_REF="a6545">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6572" ANNOTATION_REF="a6546">
-                <ANNOTATION_VALUE>различные варианты</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: различные варианты</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6573" ANNOTATION_REF="a6547">
-                <ANNOTATION_VALUE>поддержка коммуникации</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка коммуникации</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6574" ANNOTATION_REF="a6548">
-                <ANNOTATION_VALUE>сосредоточение</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: сосредоточение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19110,97 +19110,97 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6576" ANNOTATION_REF="a6550">
-                <ANNOTATION_VALUE>понимание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: понимание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6577" ANNOTATION_REF="a6551">
-                <ANNOTATION_VALUE>поддержка коммуникации</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка коммуникации</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6578" ANNOTATION_REF="a6552">
-                <ANNOTATION_VALUE>понимание, восхищение</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: понимание, восхищение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6579" ANNOTATION_REF="a6553">
-                <ANNOTATION_VALUE>поддержка коммуникации</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка коммуникации</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6580" ANNOTATION_REF="a6554">
-                <ANNOTATION_VALUE>согласие</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: согласие</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6581" ANNOTATION_REF="a6555">
-                <ANNOTATION_VALUE>поддержка коммуникации</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка коммуникации</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6582" ANNOTATION_REF="a6556">
-                <ANNOTATION_VALUE>поддержка коммуникации</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка коммуникации</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6583" ANNOTATION_REF="a6557">
-                <ANNOTATION_VALUE>поддержка коммуникации</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка коммуникации</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6584" ANNOTATION_REF="a6558">
-                <ANNOTATION_VALUE>задумчивость, воспоминания</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: задумчивость, воспоминания</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6585" ANNOTATION_REF="a6559">
-                <ANNOTATION_VALUE>задумчивость</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: задумчивость</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6586" ANNOTATION_REF="a6560">
-                <ANNOTATION_VALUE>акцент</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: акцент</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6587" ANNOTATION_REF="a6561">
-                <ANNOTATION_VALUE>многократность действия</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: многократность действия</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6588" ANNOTATION_REF="a6562">
-                <ANNOTATION_VALUE>указание на временной отрезок</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>указательный жест: указание на временной отрезок</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6589" ANNOTATION_REF="a6563">
-                <ANNOTATION_VALUE>перечисление</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6595" ANNOTATION_REF="a6590">
-                <ANNOTATION_VALUE>понятно</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: понятно</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6596" ANNOTATION_REF="a6591">
-                <ANNOTATION_VALUE>описательный жест</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>указательный жест: такой</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6597" ANNOTATION_REF="a6592">
-                <ANNOTATION_VALUE>важность</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: важность</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6598" ANNOTATION_REF="a6593">
-                <ANNOTATION_VALUE>взгляд с другой стороны</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: взгляд с другой стороны</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6599" ANNOTATION_REF="a6594">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -19212,32 +19212,32 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6607" ANNOTATION_REF="a6601">
-                <ANNOTATION_VALUE>задумчивость</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: задумчивость</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6608" ANNOTATION_REF="a6602">
-                <ANNOTATION_VALUE>отрицание своей реплики</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: отрицание своей реплики</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6609" ANNOTATION_REF="a6603">
-                <ANNOTATION_VALUE>например</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: например</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6622" ANNOTATION_REF="a6612">
-                <ANNOTATION_VALUE>мнение</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: мнение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6610" ANNOTATION_REF="a6604">
-                <ANNOTATION_VALUE>задумчивость, воспоминания</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: задумчивость, воспоминания</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6611" ANNOTATION_REF="a6605">
-                <ANNOTATION_VALUE>задумчивость</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: задумчивость</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19247,342 +19247,342 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6624" ANNOTATION_REF="a6614">
-                <ANNOTATION_VALUE>мнение, возможно</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: мнение, возможно</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6625" ANNOTATION_REF="a6615">
-                <ANNOTATION_VALUE>неуверенность</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: неуверенность</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6626" ANNOTATION_REF="a6616">
-                <ANNOTATION_VALUE>задумчивость</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: задумчивость</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6627" ANNOTATION_REF="a6617">
-                <ANNOTATION_VALUE>например</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: например</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6628" ANNOTATION_REF="a6618">
-                <ANNOTATION_VALUE>ироничность</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: ироничность</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6629" ANNOTATION_REF="a6619">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6630" ANNOTATION_REF="a6620">
-                <ANNOTATION_VALUE>поиск</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: поиск</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6642" ANNOTATION_REF="a6621">
-                <ANNOTATION_VALUE>по-хорошему, вообще-то</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: по-хорошему, вообще-то</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6643" ANNOTATION_REF="a6631">
-                <ANNOTATION_VALUE>акцент</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: акцент</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6644" ANNOTATION_REF="a6632">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6645" ANNOTATION_REF="a6633">
-                <ANNOTATION_VALUE>указание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>указательный жест: пример при перечислении</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6646" ANNOTATION_REF="a6634">
-                <ANNOTATION_VALUE>акцент</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: акцент</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6647" ANNOTATION_REF="a6635">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6648" ANNOTATION_REF="a6636">
-                <ANNOTATION_VALUE>задумчивость, подбор слов</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: задумчивость, подбор слов</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6649" ANNOTATION_REF="a6637">
-                <ANNOTATION_VALUE>акцент</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: акцент</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6650" ANNOTATION_REF="a6638">
-                <ANNOTATION_VALUE>начало, что-то простое</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: начало, что-то простое</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6651" ANNOTATION_REF="a6639">
-                <ANNOTATION_VALUE>вырастание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: вырастание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6652" ANNOTATION_REF="a6640">
-                <ANNOTATION_VALUE>развитие</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: развитие</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6653" ANNOTATION_REF="a6641">
-                <ANNOTATION_VALUE>например</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: например</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6657" ANNOTATION_REF="a6654">
-                <ANNOTATION_VALUE>строиться</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: строиться</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6658" ANNOTATION_REF="a6655">
-                <ANNOTATION_VALUE>строиться</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: строиться</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6659" ANNOTATION_REF="a6656">
-                <ANNOTATION_VALUE>возможность</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: возможность</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6676" ANNOTATION_REF="a6660">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6677" ANNOTATION_REF="a6661">
-                <ANNOTATION_VALUE>перепроверка</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: перепроверка</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6678" ANNOTATION_REF="a6662">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6679" ANNOTATION_REF="a6663">
-                <ANNOTATION_VALUE>размышление</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: размышление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6680" ANNOTATION_REF="a6664">
-                <ANNOTATION_VALUE>последовательность действий</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: последовательность действий</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6681" ANNOTATION_REF="a6665">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6682" ANNOTATION_REF="a6666">
-                <ANNOTATION_VALUE>действительно, по-настоящему</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: акцент на слове честно</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6683" ANNOTATION_REF="a6667">
-                <ANNOTATION_VALUE>улучшение</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: улучшение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6684" ANNOTATION_REF="a6668">
-                <ANNOTATION_VALUE>строить</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: строить</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6685" ANNOTATION_REF="a6669">
-                <ANNOTATION_VALUE>множество вариантов</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: множество вариантов</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6686" ANNOTATION_REF="a6670">
-                <ANNOTATION_VALUE>очевидность</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: очевидность</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6687" ANNOTATION_REF="a6671">
-                <ANNOTATION_VALUE>отрицание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: отрицание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6688" ANNOTATION_REF="a6672">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6689" ANNOTATION_REF="a6673">
-                <ANNOTATION_VALUE>дальше</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: дальше</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6690" ANNOTATION_REF="a6674">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6691" ANNOTATION_REF="a6675">
-                <ANNOTATION_VALUE>акцент</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: акцент</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6704" ANNOTATION_REF="a6692">
-                <ANNOTATION_VALUE>отрицание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: отрицание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6705" ANNOTATION_REF="a6693">
-                <ANNOTATION_VALUE>например</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: например</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6706" ANNOTATION_REF="a6694">
-                <ANNOTATION_VALUE>согласие</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: согласие</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6707" ANNOTATION_REF="a6695">
-                <ANNOTATION_VALUE>обдумывание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: обдумывание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6708" ANNOTATION_REF="a6696">
-                <ANNOTATION_VALUE>согласие</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: согласие</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6709" ANNOTATION_REF="a6697">
-                <ANNOTATION_VALUE>внимание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: внимание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6710" ANNOTATION_REF="a6698">
-                <ANNOTATION_VALUE>волнение, обдумывание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: волнение, обдумывание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6711" ANNOTATION_REF="a6699">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6712" ANNOTATION_REF="a6700">
-                <ANNOTATION_VALUE>по-хорошему</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: по-хорошему</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6713" ANNOTATION_REF="a6701">
-                <ANNOTATION_VALUE>акцент</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: акцент</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6714" ANNOTATION_REF="a6702">
-                <ANNOTATION_VALUE>задумчивость</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: задумчивость</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6715" ANNOTATION_REF="a6703">
-                <ANNOTATION_VALUE>воспоминания</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: воспоминания</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6725" ANNOTATION_REF="a6716">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6726" ANNOTATION_REF="a6717">
-                <ANNOTATION_VALUE>становление</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: становление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6727" ANNOTATION_REF="a6718">
-                <ANNOTATION_VALUE>развитие действий</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: развитие действий</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6728" ANNOTATION_REF="a6719">
-                <ANNOTATION_VALUE>к тому же</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: к тому же</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6729" ANNOTATION_REF="a6720">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6730" ANNOTATION_REF="a6721">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6731" ANNOTATION_REF="a6722">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6732" ANNOTATION_REF="a6723">
-                <ANNOTATION_VALUE>то есть</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: то есть</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6733" ANNOTATION_REF="a6724">
-                <ANNOTATION_VALUE>поддерка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддерка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6742" ANNOTATION_REF="a6734">
-                <ANNOTATION_VALUE>задумчивость</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: задумчивость</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6743" ANNOTATION_REF="a6735">
-                <ANNOTATION_VALUE>поддержка ссобственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка ссобственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6744" ANNOTATION_REF="a6736">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6745" ANNOTATION_REF="a6737">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6746" ANNOTATION_REF="a6738">
-                <ANNOTATION_VALUE>например</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: например</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6747" ANNOTATION_REF="a6739">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6748" ANNOTATION_REF="a6740">
-                <ANNOTATION_VALUE>вывод</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: вывод</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6749" ANNOTATION_REF="a6741">
-                <ANNOTATION_VALUE>как-то</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: как-то</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6757" ANNOTATION_REF="a6750">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19592,42 +19592,42 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6759" ANNOTATION_REF="a6752">
-                <ANNOTATION_VALUE>воспоминания</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: воспоминания</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6760" ANNOTATION_REF="a6753">
-                <ANNOTATION_VALUE>в целом</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: в целом</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6761" ANNOTATION_REF="a6754">
-                <ANNOTATION_VALUE>перечисление</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6762" ANNOTATION_REF="a6755">
-                <ANNOTATION_VALUE>перечисление</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6763" ANNOTATION_REF="a6756">
-                <ANNOTATION_VALUE>перечисление</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: перечисление</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6766" ANNOTATION_REF="a6764">
-                <ANNOTATION_VALUE>в целом</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: в целом</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6767" ANNOTATION_REF="a6765">
-                <ANNOTATION_VALUE>акцент</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: акцент</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6774" ANNOTATION_REF="a6768">
-                <ANNOTATION_VALUE>потом</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: потом</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19637,77 +19637,77 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6776" ANNOTATION_REF="a6770">
-                <ANNOTATION_VALUE>забросить</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: забросить</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6777" ANNOTATION_REF="a6771">
-                <ANNOTATION_VALUE>подбор слов</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>поисковый жест: подбор слов</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6778" ANNOTATION_REF="a6772">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6779" ANNOTATION_REF="a6773">
-                <ANNOTATION_VALUE>например</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: например</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6786" ANNOTATION_REF="a6780">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6787" ANNOTATION_REF="a6781">
-                <ANNOTATION_VALUE>указание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>указательный жест: указание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6788" ANNOTATION_REF="a6782">
-                <ANNOTATION_VALUE>акцент</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: акцент</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6789" ANNOTATION_REF="a6783">
-                <ANNOTATION_VALUE>указание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>указательный жест: указание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6790" ANNOTATION_REF="a6784">
-                <ANNOTATION_VALUE>отрицание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: отрицание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6791" ANNOTATION_REF="a6785">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6796" ANNOTATION_REF="a6792">
-                <ANNOTATION_VALUE>вывод</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: вывод</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6797" ANNOTATION_REF="a6793">
-                <ANNOTATION_VALUE>поддержка собственной речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: поддержка собственной речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6798" ANNOTATION_REF="a6794">
-                <ANNOTATION_VALUE>понимание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: понимание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6799" ANNOTATION_REF="a6795">
-                <ANNOTATION_VALUE>понимание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест речевого действия: понимание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6801" ANNOTATION_REF="a6800">
-                <ANNOTATION_VALUE>задумчивость</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: задумчивость</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>

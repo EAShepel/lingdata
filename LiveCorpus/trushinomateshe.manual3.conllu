@@ -946,7 +946,7 @@
 943	и	и	PART	_	_	_	_	_	words@bvt1982m#@bvt1982m#304.112#304.371
 944	так	так	ADV	_	Degree=Pos	_	_	_	words@bvt1982m#@bvt1982m#304.371#304.63
 945	тоже	тоже	PART	_	_	_	_	_	words@bvt1982m#@bvt1982m#304.63#304.889
-946	можно	можно	ADV	_	Degree=Pos	_	_	_	words@bvt1982m#@bvt1982m#304.889#305.148
+946	можно	можно	VERB	_	_	_	_	_	words@bvt1982m#@bvt1982m#304.889#305.148
 947	там	там	PART	_	_	_	_	_	words@bvt1982m#@bvt1982m#305.148#305.407
 948	жить	жить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@bvt1982m#@bvt1982m#305.407#305.666
 949	зарабатывать	зарабатывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@bvt1982m#@bvt1982m#305.666#305.925
